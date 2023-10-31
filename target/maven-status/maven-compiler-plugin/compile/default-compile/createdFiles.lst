@@ -1,0 +1,7 @@
+org\example\Npc.class
+org\example\Main.class
+org\example\Player.class
+org\example\Weapon.class
+org\example\Utils.class
+org\example\FileUtils.class
+org\example\GameCharacter.class
